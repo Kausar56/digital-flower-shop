@@ -98,31 +98,33 @@
     font-size: 20px;
 }
 .box-bg{
-    width: 430px;
+    width: 350px;
     height: 538px;
     background-color: rgba(167, 33, 98, 0.15);
     border-top-left-radius: 300px;
     border-top-right-radius: 300px;
     margin-bottom: 20px;
+    margin-right: 20px;
 
     
     
 }
 
 .box-bg2{
-    width: 430px;
+    width: 350px;
     height: 538px;
     background-color: rgba(144, 204, 231, 0.15);
     border-top-left-radius: 300px;
     border-top-right-radius: 300px;
     margin-bottom: 20px;
+    margin-right: 20px;
 
     
     
 }
 
 .box-bg3{
-    width: 430px;
+    width: 350px;
     height: 538px;
     background-color: rgba(90, 139, 105, 0.15);
     border-top-left-radius: 300px;
@@ -145,7 +147,7 @@ img.img-1{
 
 img.img-2 {
     margin-top: 100px;
-    margin-left: 35px;
+    
 }
 
 img.img-3{
@@ -162,9 +164,10 @@ img.img-3{
    justify-content: space-around;
    align-items: center;
    text-align: center;
-   width: 1440px;
    height: 320px;
-   margin:100px 0px;
+   padding: 0px 100px;
+   margin:100px 120px;
+   background-color: rgba(39, 39, 39, 0.05);
 }
 
 .Delivery img{
@@ -199,4 +202,46 @@ img.img-3{
     font-size: 24px;
     color: gray;
     margin-top: 15px;
+}
+
+
+/* discount section style  */
+
+
+.discount-container{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+    height: 620px;
+    background-color: rgba(229, 84, 115, 0.05);
+}
+
+
+.hot-deal{
+
+}
+
+.discount-title{
+    font-size: 42px;
+    color: #272727;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.discount-title .text-color{
+    color: #E55473;
+}
+
+.offer-details{
+    font-size: 20px;
+    color: gray;
+    margin-bottom: 20px;
+}
+
+
+.product-img{
+    width: 318px;
+height: 420px;
 }
