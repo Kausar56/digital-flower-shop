@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Header section style  */
+
+.header-container{
+   background-color: rgba(229, 84, 115, 0.10);
+   height: 85vh;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+
+}
+
+
+
+.header-title{
+
+}
+
+.title{
+
+    font-size: 75px;
+    color: #151515;
+}
+
+.hedaer-description{
+  width: 600px;
+  color: gray;
+  font-size: 17px;
+  margin:20px 0px;
+}
+
+.btn-primary{
+    border:none;
+    background-color: rgb(240, 95, 119);
+    color: #fff;
+    padding: 18px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.header-pic{
+    margin-top: 148px;
+}
+
+
+
+.header-pic img{
+    width: 500px;
+   
+
+}
