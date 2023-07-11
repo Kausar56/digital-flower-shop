@@ -50,6 +50,153 @@
 
 .header-pic img{
     width: 500px;
+    
    
 
+}
+
+
+
+/* Featured flower css style  */
+
+
+.Featured{
+   margin-top: 120px;
+
+}
+
+.Featured-title{
+    text-align: center;
+}
+
+.Featured-title h2{
+    font-size: 40px;
+}
+
+.Featured-title p{
+   font-size: 17px;
+   color: gray;
+   margin-top: 15px;
+}
+
+.Featured-container{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+   align-items: center;
+   margin-top: 100px;
+
+ 
+}
+
+
+.flower-box{
+   text-align: center;
+}
+.flower-box  a{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.box-bg{
+    width: 430px;
+    height: 538px;
+    background-color: rgba(167, 33, 98, 0.15);
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    margin-bottom: 20px;
+
+    
+    
+}
+
+.box-bg2{
+    width: 430px;
+    height: 538px;
+    background-color: rgba(144, 204, 231, 0.15);
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    margin-bottom: 20px;
+
+    
+    
+}
+
+.box-bg3{
+    width: 430px;
+    height: 538px;
+    background-color: rgba(90, 139, 105, 0.15);
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    margin-bottom: 20px;
+    
+}
+
+/* .box-bg3 img{
+    widows: 300px;
+    height: 400px;
+   
+
+} */
+
+
+img.img-1{
+    margin-top: 111px;
+}
+
+img.img-2 {
+    margin-top: 100px;
+    margin-left: 35px;
+}
+
+img.img-3{
+    margin-top: 69px;
+}
+
+
+
+/* support section css style  */
+
+
+.customer-support{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   text-align: center;
+   width: 1440px;
+   height: 320px;
+   margin:100px 0px;
+}
+
+.Delivery img{
+    width: 88px;
+    height: 88px;
+
+}
+
+.Delivery p{
+    font-size: 24px;
+    color: gray;
+    margin-top: 15px;
+}
+.fresh_flower img{
+    width: 88px;
+    height: 88px;
+
+}
+
+.fresh_flower p{
+    font-size: 24px;
+    color: gray;
+    margin-top: 15px;
+}
+.support img{
+    width: 88px;
+    height: 88px;
+
+}
+
+.support p{
+    font-size: 24px;
+    color: gray;
+    margin-top: 15px;
 }
