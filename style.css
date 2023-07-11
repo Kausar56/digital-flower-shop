@@ -356,3 +356,31 @@ margin-right: 15px;
     align-items: center;
     color: #fff;
 }
+
+.footer-content{
+    text-align: center;
+}
+
+.footer-title{
+    font-size: 48px;
+    font-weight: 800;
+    
+}
+.footer-title span{
+     color: #E55473;
+}
+
+.footer-description{
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.90);
+    width: 625px;
+    margin: 20px 0px;
+}
+
+.footer-copy{
+      color: gray;
+      font-size: 18px;
+
+
+
+}
