@@ -245,3 +245,46 @@ img.img-3{
     width: 318px;
 height: 420px;
 }
+
+
+
+/* social post style css  */
+
+
+
+.social-post{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.social-post h2{
+   font-size: 40px;
+   font-weight: 800px;
+   color: #272727;
+   
+}
+.social-post p{
+   font-size: 18px;
+   font-weight: 400px;
+   color: gray;
+   margin-top: 15px;
+}
+.instagram-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.post{
+margin-right: 10px;
+
+}
+
+.img-content{
+    width: 270px;
+    height: 320px;
+}
